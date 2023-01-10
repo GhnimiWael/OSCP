@@ -13,10 +13,16 @@ The OSCP certification is highly regarded in the information security industry a
 
 ## HTB-Boxes
 
+Hack The Box (HTB) is a platform that hosts virtual machines with vulnerabilities that you can exploit to practice and improve your hacking skills. The virtual machines on HTB are classified as "boxes," and they are organized into categories based on their difficulty level and operating system.
+
 ### Linux
 <p align="center">
-<img src="https://p4.wallpaperbetter.com/wallpaper/708/141/138/anime-anime-girls-technology-software-arch-linux-hd-wallpaper-preview.jpg">
+<img src="https://preview.redd.it/5jwtpab3nny81.png?auto=webp&s=3210ec65f3d95d2cd9671c42094ff993908d7d45">
 </p>
+
+There are several "Linux boxes" on HTB, which are virtual machines running the Linux operating system that have vulnerabilities that you can exploit. These boxes range in difficulty from beginner to advanced, and they cover a variety of Linux distributions and versions.
+
+To access the Linux boxes on HTB, you will need to sign up for an account on the platform and purchase a subscription. Once you have an account, you can browse the available boxes, select one to work on, and begin trying to exploit its vulnerabilities. You can use a variety of tools and techniques to complete the challenges and "hack" the box.
 
 1. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/bashed-writeup" target="_blank">Bashed</a>
 2. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/beep-writeup" target="_blank">Beep</a>
