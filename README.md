@@ -18,15 +18,15 @@ The OSCP certification is highly regarded in the information security industry a
 <img src="https://p4.wallpaperbetter.com/wallpaper/708/141/138/anime-anime-girls-technology-software-arch-linux-hd-wallpaper-preview.jpg">
 </p>
 
-1. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/bashed-writeup">Bashed</a>
-2. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/beep-writeup">Beep</a>
-3. <a href="">Cronos</a>
-4. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/lame-writeup">Lame</a>
-5. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/nibbles-writeup">Nibbles</a>
-6. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/node-writeup">Node</a>
-7. <a href="">Poison</a>
-8. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/sense-writeup">Sense</a>
-9. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/shocker-writeup">Shocker</a>
-10. <a href="">Sunday</a>
-11. <a href="">Valentine</a>
-12. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/mirai-writeup"> Mirai </a>
+1. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/bashed-writeup" target="_blank">Bashed</a>
+2. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/beep-writeup" target="_blank">Beep</a>
+3. <a href="" target="_blank">Cronos</a>
+4. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/lame-writeup" target="_blank">Lame</a>
+5. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/nibbles-writeup" target="_blank">Nibbles</a>
+6. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/node-writeup" target="_blank">Node</a>
+7. <a href="" target="_blank">Poison</a>
+8. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/sense-writeup" target="_blank">Sense</a>
+9. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/shocker-writeup" target="_blank">Shocker</a>
+10. <a href="" target="_blank">Sunday</a>
+11. <a href="" target="_blank">Valentine</a>
+12. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/mirai-writeup" target="_blank"> Mirai </a>
