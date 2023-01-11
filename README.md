@@ -36,3 +36,4 @@ To access the Linux boxes on HTB, you will need to sign up for an account on the
 10. <a href="" target="_blank">Sunday</a>
 11. <a href="" target="_blank">Valentine</a>
 12. <a href="https://w43l.gitbook.io/oscp-preparation/htb/htb-linux-boxes/mirai-writeup" target="_blank"> Mirai </a>
+13. <a href="" target="_blank">Cronos</a>
