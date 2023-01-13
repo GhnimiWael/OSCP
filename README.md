@@ -9,6 +9,8 @@ To obtain the OSCP certification, candidates must complete a course and a practi
 
 The OSCP certification is highly regarded in the information security industry and is considered a practical, hands-on qualification that demonstrates a candidate's ability to perform real-world penetration testing tasks.
 
+Course Link: https://www.offensive-security.com/courses/pen-200/
+
 # Content
 
 ## HTB-Boxes
